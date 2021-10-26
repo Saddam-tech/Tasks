@@ -17,6 +17,18 @@
       "text": "Food shopping",
       "day": "March 7th at 2:00pm",
       "reminder": false
+    },
+    {
+      "text": "Hello people",
+      "day": "So we are talking about this project",
+      "reminder": false,
+      "id": "WejcQVk"
+    },
+    {
+      "text": "This is a new Task of the project",
+      "day": "We are working on a new project",
+      "reminder": true,
+      "id": "HfYCgJs"
     }
   ]
 }
